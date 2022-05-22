@@ -1,0 +1,32 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.heading:hover {
+    cursor: none;
+}
+
+#status {
+    font-size: 18px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+#status:hover {
+    cursor: none;
+}
+
+canvas {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 15px;
+}
+
+canvas:hover {
+    cursor: none;
+}
